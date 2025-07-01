@@ -1,6 +1,6 @@
-# JSP, Servlet을 활용한 쇼핑몰 프로젝트 (연습)
+# JSP, Servlet을 활용한 쇼핑몰 프로젝트
 
-JSP, Servlet, JDBC를 활용한 학습용 쇼핑몰 프로젝트
+JSP, Servlet, JDBC를 활용한 쇼핑몰 실습(클론 코딩) 프로젝트
 
 ## 기술 스택
 
